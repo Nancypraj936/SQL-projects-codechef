@@ -3,8 +3,8 @@
 Hi! I’m Nancy 👋  
 
 This repository is a collection of:
-- ✅ CodeChef SQL problem solutions  
-- 🗂️ SQL practice projects  
+- ✅ My solutions to CodeChef SQL problems 
+- 🗂️ SQL practice projects and queries 
 - 📖 Simple explanations to help learners understand SQL easily
 
 ---
