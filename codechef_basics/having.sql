@@ -1,0 +1,2 @@
+SELECT department, AVG(payout) FROM employee
+GROUP BY department HAVING COUNT(*)>3;      -- DEPARTMENT WITH COUNT OF EMPLOYEES MORE THAN 3
