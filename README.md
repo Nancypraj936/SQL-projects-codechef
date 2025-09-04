@@ -1,4 +1,4 @@
-# CodeChef SQL Projects and Problem Solutions
+# CodeChef SQL Projects and Problem Solutions (contains 'Pro' exercises only)
 
 Hi! I’m Nancy 👋  
 
