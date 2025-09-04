@@ -6,7 +6,7 @@ This repository is a collection of:
 - ✅ CodeChef SQL problem solutions  
 - 🗂️ SQL practice projects  
 - 📖 Simple explanations to help learners understand SQL easily
-(contains 'Pro' exercises only)
+- (contains 'Pro' exercises only)
 
 ---
 
